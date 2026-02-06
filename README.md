@@ -66,17 +66,6 @@
 
 <br clear="right" />
 
-## 🎧 Spotify Playing
-
-<!-- Replace with your Spotify widget -->
-<!-- Example: -->
-<!-- https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID -->
-
----
-
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=oneshhh&show_icons=true&count_private=true&theme=github_dark" />
 
 ---
 
@@ -92,6 +81,19 @@
 ![Bash](https://img.shields.io/badge/Bash-000?style=for-the-badge&logo=gnu-bash)
 
 ---
+
+## 🎧 Spotify Playing
+
+<!-- Replace with your Spotify widget -->
+<!-- Example: -->
+<!-- https://spotify-github-profile.vercel.app/api/view?uid=YOUR_ID -->
+
+---
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=oneshhh&show_icons=true&count_private=true&theme=github_dark" />
+
 
 <p align="center">
   <!-- Visitor counter (optional) -->
