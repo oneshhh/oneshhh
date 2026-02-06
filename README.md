@@ -5,53 +5,66 @@
   Hi, I'm Vansh Sabharwal, a network enthusiast and developer helping secure applications and the cyber environment. 
 </p>
 
-<!-- Social badges (leave empty for now) -->
-<p align="left">
-  <!-- Add Website -->
-  <!-- Add LinkedIn -->
-  <!-- Add Twitter -->
-  <!-- Add Spotify -->
+
+  <!-- Personal Website -->
+  <a href="">
+    <img src="https://img.shields.io/badge/-yourwebsite.dev-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox" />
+  </a>
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/vansh-sabharwal-12bb56249/">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn" />
+  </a>
+
+  <!-- Spotify -->
+  <a href="https://open.spotify.com/user/314fkmfmpltfs7b5rjfzrpwdml2y?si=b5272d7717254b90">
+    <img src="https://img.shields.io/badge/-Spotify-1ED760?style=flat-square&labelColor=ffffff&logo=Spotify" />
+  </a>
+
+  <!-- Twitter / X -->
+  <a href="https://x.com/MRSABHARWAL1">
+    <img src="https://img.shields.io/badge/-X-000000?style=flat-square&labelColor=000000&logo=X" />
+  </a>
+
 </p>
 
----
 
-## 🚀 Tech Stack
+<h2>⚡️ A Few Quick Facts</h2>
 
-### Languages & Scripting
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="35" height="35"/>
-</p>
+<img 
+  align="right"
+  src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExc3g0emtkM2ZibGtldXFpbmwyYmdwNnFvNHVhdWdlc2hpamV6aXcwMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/69jtGYCHPddBe7PRhx/giphy.gif"
+  width="500"
+/>
 
-### DevOps, Cloud & Systems
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png" width="35" height="35"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="35" height="35"/>
-</p>
+<ul>
+  <li>
+    I’m colourblind; I don’t see shades of red and green combined together.
+  </li>
+  <li>
+    I’m currently working on 
+    <a href="">Dvar</a>, a one-sided interview platform powered by AI that helps companies recruit faster and more efficiently.
+  </li>
+  <li>
+    I’m learning about <strong>cloud networking</strong> and <strong>API security</strong>, with a focus on building and securing scalable systems.
+  </li>
+  <li>
+    Most of my projects are available on 
+    <a href="https://github.com/oneshhh">GitHub</a>.
+  </li>
+  <li>
+    I write about the automotive world on 
+    <a href="https://www.carglimpses.com/">CarGlimpses</a>, covering cars, tech, and hands-on insights as a dedicated gearhead.
+  </li>
+  <li>
+    You can reach out to me about <strong>cloud infrastructure</strong>, <strong>security</strong>, <strong>DevOps</strong>, and <strong>backend systems</strong>.
+  </li>
+  <li>
+    Resume link will be added here.
+  </li>
+</ul>
 
-### Databases & Platforms
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" width="35" height="35"/>
-</p>
-
-### Security & Monitoring
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/splunk/splunk-icon.svg" width="35" height="35"/>
-</p>
-
----
-
-## 🧠 A Few Quick Facts
-
-- 🔭 Currently working on:  
-- 🌱 Learning:  
-- 💬 Ask me about:  
-- 🎯 Current focus:  
-- 🎉 Fun fact:  
-
----
+<br clear="right" />
 
 ## 🎧 Spotify Playing
 
@@ -63,7 +76,7 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=oneshhh&show_icons=true&count_private=true&theme=github_dark" />
 
 ---
 
