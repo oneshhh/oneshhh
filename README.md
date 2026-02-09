@@ -2,7 +2,7 @@
 
 <!-- Short intro (you can edit later) -->
 <p>
-  Hi, I'm Vansh Sabharwal, a network enthusiast and developer helping secure applications and the cyber environment. 
+  Hi, I'm Vansh Sabharwal, a network enthusiast and developer helping secure applications and the cyber environment. I currently work at GXT as a DevOps Engineer, and I'm learning about cloud security and sharpening my network skills. 
 </p>
 
 
