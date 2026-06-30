@@ -43,7 +43,7 @@
   </li>
   <li>
     I’m currently working on 
-    <a href="">Dvar</a>, a one-sided interview platform powered by AI that helps companies recruit faster and more efficiently.
+    <a href="https://trydvar.com/">Dvar</a>, a one-sided interview platform powered by AI that helps companies recruit faster and more efficiently.
   </li>
   <li>
     I’m learning about <strong>cloud networking</strong> and <strong>API security</strong>, with a focus on building and securing scalable systems.
