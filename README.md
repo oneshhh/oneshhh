@@ -59,9 +59,6 @@
   <li>
     You can reach out to me about <strong>cloud infrastructure</strong>, <strong>security</strong>, <strong>DevOps</strong>, and <strong>backend systems</strong>.
   </li>
-  <li>
-    Resume link will be added here.
-  </li>
 </ul>
 
 <br clear="right" />
