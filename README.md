@@ -8,8 +8,7 @@
 
   <!-- Personal Website -->
   <a href="https://portfolio-fkkdy6udw-vansh-8bff.vercel.app/">
-   <img src="https://img.shields.io/badge/My%20Portfolio-2563EB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="My Portfolio" />
-  </a>
+    <img src="https://img.shields.io/badge/My%20Portfolio-4E69C8?style=flat-square&logo=Firefox-Browser&logoColor=white" alt="My Portfolio" />  </a>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/vansh-sabharwal-12bb56249/">
