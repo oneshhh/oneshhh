@@ -8,7 +8,7 @@
 
   <!-- Personal Website -->
   <a href="https://portfolio-fkkdy6udw-vansh-8bff.vercel.app/">
-    <img src="https://img.shields.io/badge/-My Portfolio-4E69C8?style=flat-square&labelColor=4E69C8&logo=Firefox" />
+   <img src="https://img.shields.io/badge/My%20Portfolio-2563EB?style=for-the-badge&logo=Firefox-Browser&logoColor=white" alt="My Portfolio" />
   </a>
 
   <!-- LinkedIn -->
